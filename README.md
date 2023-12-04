@@ -14,3 +14,11 @@ Answer
        
        all these errors are handled in the bash script using if conditions for each error and all explined in the script comments 
 
+
+
+
+      chmod command is not working even though i installed the package of it 
+      while ./config_parser.sh is working just fine and that is shown in the screenshoot given 
+
+thank you
+
