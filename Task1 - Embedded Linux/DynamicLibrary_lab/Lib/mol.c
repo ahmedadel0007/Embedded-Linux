@@ -1,0 +1,6 @@
+#include "mol.h"
+
+int modulus(int a, int b) {
+    return a % b;
+}
+
