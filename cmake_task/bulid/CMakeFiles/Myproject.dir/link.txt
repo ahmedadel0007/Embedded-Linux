@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Myproject.dir/main.c.o -o Myproject  Library/liboperation.a 

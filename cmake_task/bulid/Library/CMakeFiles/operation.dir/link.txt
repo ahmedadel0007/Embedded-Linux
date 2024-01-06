@@ -1,0 +1,2 @@
+/usr/bin/ar qc liboperation.a CMakeFiles/operation.dir/__/source/add.c.o CMakeFiles/operation.dir/__/source/div.c.o CMakeFiles/operation.dir/__/source/mol.c.o CMakeFiles/operation.dir/__/source/Mult.c.o CMakeFiles/operation.dir/__/source/sub.c.o
+/usr/bin/ranlib liboperation.a

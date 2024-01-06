@@ -1,0 +1,6 @@
+/home/ahmed/Desktop/workspace/Embedded-Linux/Embedded-Linux/cmake_task/bulid/CMakeFiles/Myproject.dir
+/home/ahmed/Desktop/workspace/Embedded-Linux/Embedded-Linux/cmake_task/bulid/CMakeFiles/edit_cache.dir
+/home/ahmed/Desktop/workspace/Embedded-Linux/Embedded-Linux/cmake_task/bulid/CMakeFiles/rebuild_cache.dir
+/home/ahmed/Desktop/workspace/Embedded-Linux/Embedded-Linux/cmake_task/bulid/Library/CMakeFiles/operation.dir
+/home/ahmed/Desktop/workspace/Embedded-Linux/Embedded-Linux/cmake_task/bulid/Library/CMakeFiles/edit_cache.dir
+/home/ahmed/Desktop/workspace/Embedded-Linux/Embedded-Linux/cmake_task/bulid/Library/CMakeFiles/rebuild_cache.dir
